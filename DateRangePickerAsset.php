@@ -18,7 +18,7 @@ class DateRangePickerAsset extends AssetBundle
 			'moment.min.js',
 			'daterangepicker.js',
 		];
-		$this->css = ['daterangepicker-bs3.css'];
+		$this->css = ['daterangepicker-bs4.css'];
 
 		parent::init();
 	}
