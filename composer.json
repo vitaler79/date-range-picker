@@ -1,7 +1,7 @@
 {
 	"name": "webvimark/date-range-picker-gislib",
 	"description": "dangrossman daterangepicker yii 2 gridview",
-	"version": "1.0.3",
+	"version": "1.0.5",
 	"autoload": {
 		"psr-4": {
 			"webvimark\\extensions\\DateRangePickerGisLib\\": ""
